@@ -1,5 +1,1 @@
-numbers = [1,2,3]
-
-def square_array(numbers)
-    puts (numbers.each
-end
+[1,2,3].each {
