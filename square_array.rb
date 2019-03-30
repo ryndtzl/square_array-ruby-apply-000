@@ -1,3 +1,5 @@
 numbers = [1,2,3]
 
-numbers.each { |n| puts 
+def square_array(numbers)
+end
+
